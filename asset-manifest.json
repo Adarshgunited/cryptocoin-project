@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/cryptocoin-project/static/js/main.0c69439a.js",
+    "static/media/btc.png": "/cryptocoin-project/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/cryptocoin-project/index.html",
+    "main.0c69439a.js.map": "/cryptocoin-project/static/js/main.0c69439a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0c69439a.js"
+  ]
+}
